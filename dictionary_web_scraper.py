@@ -65,6 +65,3 @@ def define_word(word):
     return ""
   except:
     print("Word does exist!")
-
-word = "welcome"
-print(define_word(word))
