@@ -66,6 +66,5 @@ def define_word(word):
   except:
     print("Word does exist!")
 
-#@title Get definition
-word = "welcome" #@param {type:"string"}
+word = "welcome"
 print(define_word(word))
